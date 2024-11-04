@@ -2,8 +2,8 @@
 #Date: 09/30/2024
 #Description: Backend integer is entered that user must try to guess.
 #             User is prompted to guess number. Program returns whether number
-#              is higher or lower than target. If target is hit, user is told how
-#              many guesses were required to hit target.
+#             is higher or lower than target. If target is hit, user is told how
+#             many guesses were required to hit target.
 
 #Prompt for backend number to be guessed
 print("Enter the number for the player to guess.")
